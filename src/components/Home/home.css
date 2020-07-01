@@ -1,0 +1,29 @@
+.pp-logo {
+    position: relative;
+    height: 210px;
+    display: block;
+    left: -84px;
+    
+    
+  }
+
+  
+.page {
+    position: absolute;
+    margin-left: 370px;
+    margin-right: 30px;
+    height: 100px;
+    text-align: center;
+    position: relative;
+  }
+
+  .ui.segment {
+    position: relative;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 2px 0 white;
+    box-shadow: 0 1px 2px 0 white;
+    margin: 1rem 0;
+    padding: 1em 1em;
+    border-radius: .28571429rem;
+    border: 1px solid white;
+}

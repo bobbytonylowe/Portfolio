@@ -1,0 +1,27 @@
+
+
+.ui.items>.item>.content>.description {
+    margin-top: .6em;
+    max-width: auto;
+    font-size: 1em;
+    line-height: 1.4285em;
+    color: rgba(0,0,0,.87);
+
+}
+
+.ui.items>.item>.image+.content {
+    min-width: 0;
+    width: auto;
+    display: block;
+    margin-left: 450px;
+    -ms-flex-item-align: top;
+    align-self: top;
+    padding-left: 1.5em;
+    width: 700px
+}
+.ui.items>.item .content img {
+    -ms-flex-item-align: middle;
+    align-self: middle;
+    width: 700px;
+}
+
